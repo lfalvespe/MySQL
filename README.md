@@ -10,3 +10,11 @@
    - Criando tabelas dentro do banco de dados.
   </a>
   </p>
+  
+  <h2>Comando Insert Into</h2>
+
+ <p>
+   <a hrefInsert.pdf">
+   - Inserindo Registros nas tabelas
+  </a>
+  </p>
