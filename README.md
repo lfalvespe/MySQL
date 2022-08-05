@@ -1,5 +1,14 @@
 # MySQL
 
+<h2>Tipos Primitivos:</h2>
+ 
+ <p>
+   <a href="PrimeirosComandos.pdf">
+   - Tipos no MySQL
+   <br>
+   - Primeiros Comandos.
+  </a>
+  </p>
 
 <h2>Comando 'Create':</h2>
  
