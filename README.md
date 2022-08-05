@@ -1,7 +1,7 @@
 # MySQL
 
 
-<h2>Comando Create:</h2>
+<h2>Comando 'Create':</h2>
  
  <p>
    <a href="Create.pdf">
@@ -11,7 +11,7 @@
   </a>
   </p>
   
-  <h2>Comando Insert Into</h2>
+  <h2>Comando 'Insert Into'</h2>
 
  <p>
    <a href="Insert.pdf">
