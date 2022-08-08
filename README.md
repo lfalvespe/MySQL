@@ -31,7 +31,7 @@
   <h2>Comando 'Alter Table'</h2>
 
  <p>
-   <a href="Alter-Table.pdf">
+   <a href="AlterTable.pdf">
    - Fazendo alterações na estrutura da tabela
      (Add, Drop, Modify, Change)
   </a>
