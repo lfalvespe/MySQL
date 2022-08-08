@@ -27,3 +27,12 @@
    - Inserindo Registros nas tabelas
   </a>
   </p>
+  
+  <h2>Comando 'Alter Table'</h2>
+
+ <p>
+   <a href="Alter-Table.pdf">
+   - Fazendo alterações na estrutura da tabela
+     (Add, Drop, Modify, Change)
+  </a>
+  </p>
