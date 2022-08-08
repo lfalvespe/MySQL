@@ -40,7 +40,7 @@
   </a>
   </p>
 
- <h2>Comandos 'Upddate, Delete, Truncate'</h2>
+ <h2>Comandos 'Update, Delete, Truncate'</h2>
  <p>
    <a href="Update.pdf">
    - Manipulando Registros
