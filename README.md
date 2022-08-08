@@ -1,4 +1,7 @@
-# MySQL
+<img src="mysql-icon.png" height="64" align="right">
+
+<h1>MySQL</h1>
+<br>
 
 <h2>Tipos Primitivos:</h2>
  
