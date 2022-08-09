@@ -60,4 +60,13 @@
    - 'Distinct' e Funções de agregação.
  </a>
  </p>
+ 
+ <h2>Comando 'Select' (Parte 3)</h2>
+ <p>
+   <a href="Select3.pdf">
+   - Agrupamento: Group by, Group by _____ having _____. 
+   <br>
+   - Selecionando, Agrupando e filtrando.
+ </a>
+ </p>
 
