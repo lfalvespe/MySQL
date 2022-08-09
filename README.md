@@ -28,21 +28,36 @@
  <p>
    <a href="Insert.pdf">
    - Inserindo Registros nas tabelas
-  </a>
-  </p>
+ </a>
+ </p>
   
-  <h2>Comando 'Alter Table'</h2>
+ <h2>Comando 'Alter Table'</h2>
 
  <p>
    <a href="AlterTable.pdf">
    - Fazendo alterações na estrutura da tabela
      (Add, Drop, Modify, Change)
-  </a>
-  </p>
+ </a>
+ </p>
 
  <h2>Comandos 'Update, Delete, Truncate'</h2>
  <p>
    <a href="Update.pdf">
    - Manipulando Registros
-  </a>
-  </p>
+ </a>
+ </p>
+  
+ <h2>Comando 'Select' (Parte 1)</h2>
+ <p>
+   <a href="Select1.pdf">
+   - Operador 'Like' e Wildcards.
+ </a>
+ </p>
+  
+ <h2>Comando 'Select' (Parte 2)</h2>
+ <p>
+   <a href="Select2.pdf">
+   - 'Distinct' e Funções de agregação.
+ </a>
+ </p>
+
