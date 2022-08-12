@@ -6,7 +6,7 @@
 <h2>Tipos Primitivos:</h2>
  
  <p>
-   <a href="Tipos.pdf">
+   <a href="Tipos.pdf" target="new">
    - Tipos no MySQL
    <br>
    - Primeiros Comandos.
